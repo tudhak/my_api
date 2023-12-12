@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  end_date: 2023-12-12
+  start_date: 2023-12-12
+
+two:
+  end_date: 2023-12-12
+  start_date: 2023-12-12
